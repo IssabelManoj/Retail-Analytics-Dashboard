@@ -25,13 +25,11 @@ An interactive Power BI dashboard developed to analyze retail sales, profit, and
 ## Screenshots
 
 ### Sales Analysis
-
-(Add image here)
+![Sales Analysis](Screenshots/Sales%20Analysis.png)
 
 ### Profit Analysis
 
-(Add image here)
+![Profit Analysis](Screenshots/Sales%20Analysis.png)
 
 ### Demographics Analysis
-
-(Add image here)
+![Demographics Analysis](Screenshots/Sales%20Analysis.png)
